@@ -24,7 +24,7 @@ This project uses tensorflow and extended keras datasets
 * Training a CNN on the original EMNIST images
 * Analyzing accuracy of the CNN
 * Image Blurring 
-*  * kernel sizes of 5, 10, 20 and 30 are used
+  * kernel sizes of 5, 10, 20 and 30 are used
 * Analysis of network accuracy based on image blurriness
 
 ## Image Preparation
