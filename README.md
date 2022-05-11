@@ -9,15 +9,7 @@ This project uses tensorflow and extended keras datasets
 * pip install tensorflow
 * pip install extra-keras-datasets
 
-## Workflow plans
-* import data in a way that can be run on any computer (done)
-* load in the letters dataset (done)
-* visualize the data to make sure sizing is correct (done)
-* use train_test_split to create trainining in test sets (done)
-* create neural network: try basic  model, resnet, mobilenet, adding SE block etc (in progress)
-* visualize accuracy of each and plot
-* compare accuracy and cross entropy loss for each
-* draw conclusions about the best model type
+The notebook in this repository describes the step by step process to create this neural netwrork and analyze its results. 
 
 ### Table of Contents
 * Image Preparation
